@@ -263,3 +263,9 @@ section {
 	align-items: center;
 	gap: 2rem;
 }
+
+.history-img img {
+	height: auto;
+	width: 100%;
+}
+
